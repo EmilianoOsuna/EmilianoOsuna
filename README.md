@@ -1,41 +1,71 @@
-# Emiliano Osuna
+```
+███████╗███╗   ███╗██╗██╗     ██╗ █████╗ ███╗   ██╗  ██████╗ 
+██╔════╝████╗ ████║██║██║     ██║██╔══██╗████╗  ██║ ██╔═══██╗
+█████╗  ██╔████╔██║██║██║     ██║███████║██╔██╗ ██║ ██║   ██║
+██╔══╝  ██║╚██╔╝██║██║██║     ██║██╔══██║██║╚██╗██║ ██║   ██║
+███████╗██║ ╚═╝ ██║██║███████╗██║██║  ██║██║ ╚████║ ╚██████╔╝
+╚══════╝╚═╝     ╚═╝╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═════╝
+ ██████╗ ███████╗██╗   ██╗███╗   ██╗  █████╗ 
+██╔═══██╗██╔════╝██║   ██║████╗  ██║ ██╔══██╗
+██║   ██║███████╗██║   ██║██╔██╗ ██║ ███████║
+██║   ██║╚════██║██║   ██║██║╚██╗██║ ██╔══██║
+╚██████╔╝███████║╚██████╔╝██║ ╚████║ ██║  ██║
+ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝
+```
 
-Estudiante de Ingeniería en Sistemas en el TecNM Campus Tepic y desarrollador web freelance. Construyo sitios para negocios en LATAM con proceso definido, código limpio y sin improvisar.
+<div align="center">
 
-Mi stack principal es React, TypeScript, Tailwind CSS, Supabase y Framer Motion. Deployeo en Cloudflare Pages y Vercel. Uso IA como herramienta de desarrollo activa, no como sustituto del criterio.
+**`Ingeniería en Sistemas · TecNM Campus Tepic · Desarrollador Freelance`**
 
----
+[![Portfolio](https://img.shields.io/badge/portfolio-emilianoosuna.com-adff2f?style=for-the-badge&labelColor=0a0a0a)](https://emilianoosuna.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-emiliano--osuna-adff2f?style=for-the-badge&logo=linkedin&logoColor=adff2f&labelColor=0a0a0a)](https://linkedin.com/in/emiliano-osuna-langarica-aa2075363)
 
-## Lo que me mueve
-
-La intersección entre diseño y código es donde me siento más cómodo. No me interesa hacer sitios que solo "funcionen" — me interesa que comuniquen algo, que sean rápidos, y que quien los encargó entienda por qué cada decisión está ahí.
-
-Trabajo con una metodología propia de dos fases: primero entender el negocio a fondo, luego construir. Eso evita los desvíos a mitad del proyecto y las entregas que no convencen a nadie.
-
-También estoy construyendo productos propios. Algunos públicos, algunos todavía en proceso. La idea a largo plazo es que el freelance y los productos propios convivan — no que uno reemplace al otro.
-
----
-
-## Repos destacados
-
-| Proyecto | Descripción |
-|---|---|
-| [Stathmos](https://github.com/EmilianoOsuna/Stathmos.web) | Sistema de gestión para taller automotriz. React 19, Supabase, PWA. |
-| [MatrixCore](https://github.com/EmilianoOsuna/MatrixCore) | Compilador/intérprete para un lenguaje de matrices. Java, LL(1). |
-| [SmartMouth](https://github.com/EmilianoOsuna/SmartMouth) | Proyecto en desarrollo. |
+</div>
 
 ---
 
-## Stack
+Soy ingeniero en sistemas en formación y desarrollador freelance. Construyo software desde distintos frentes: aplicaciones web, herramientas de escritorio, compiladores, sistemas de gestión. No me quedo en un solo dominio porque la ingeniería en sistemas, bien entendida, no funciona así.
 
-`React` `TypeScript` `Tailwind CSS` `Supabase` `Framer Motion` `Vite` `Python` `Java` `Cloudflare Pages` `Vercel`
-
----
-
-## Contacto
-
-[emilianoosuna.com](https://emilianoosuna.com) · [LinkedIn](https://linkedin.com/in/emiliano-osuna-langarica-aa2075363)
+Mi enfoque en cualquier proyecto es el mismo: entender el problema primero, diseñar la solución, construirla con criterio. Sin improvisar a mitad del camino.
 
 ---
 
-Todo lo que hago tiene una motivación de fondo, y esa motivación tiene nombre: Hanna. Mi novia, que me recuerda todos los días por qué vale la pena construir cosas que importen.
+## `~/stack`
+
+```json
+{
+  "web":       ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "Supabase", "Vite"],
+  "backend":   ["Python", "Node.js", "Express"],
+  "sistemas":  ["Java", "C", "SQL Server", "PostgreSQL"],
+  "infra":     ["Cloudflare Pages", "Vercel", "GitHub Actions"],
+  "diseño":    ["Figma"]
+}
+```
+
+---
+
+## `~/proyectos`
+
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| **[Stathmos](https://github.com/EmilianoOsuna/Stathmos.web)** | React · Supabase · PWA | Sistema de gestión para taller automotriz. Órdenes, inventario, clientes. |
+| **[MatrixCore](https://github.com/EmilianoOsuna/MatrixCore)** | Java | Compilador/intérprete para un lenguaje de matrices con analizador léxico y parser LL(1). |
+| **[SmartMouth](https://github.com/EmilianoOsuna/SmartMouth)** | Python | Herramienta de voz a texto con limpieza de muletillas via LLM. |
+| **[HBD2Hanna](https://github.com/EmilianoOsuna/HBD2Hanna)** | React | Proyecto personal. |
+| **[OurMap](https://github.com/EmilianoOsuna/OurMap)** | React | Proyecto personal. |
+
+---
+
+## `~/actualmente`
+
+Cursando Ingeniería en Sistemas en el TecNM, con materias como Redes de Computadoras, Bases de Datos y Autómatas. Al mismo tiempo trabajando con clientes en LATAM, construyendo productos propios y explorando cómo integrar IA de forma útil en flujos de desarrollo reales.
+
+---
+
+<div align="center">
+
+*Todo lo que construyo tiene una motivación de fondo.*
+*Esa motivación tiene nombre: **Hanna**.*
+*Mi novia, que me recuerda todos los días por qué vale la pena hacer las cosas bien.*
+
+</div>
