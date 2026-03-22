@@ -1,6 +1,6 @@
 # Emiliano Osuna
 
-Estudiante de Ingeniería en Sistemas en el TecNM Campus Tepic y desarrollador web freelance. Construyo sitios para negocios en LATAM — con proceso definido, código limpio y sin improvisar.
+Estudiante de Ingeniería en Sistemas en el TecNM Campus Tepic y desarrollador web freelance. Construyo sitios para negocios en LATAM con proceso definido, código limpio y sin improvisar.
 
 Mi stack principal es React, TypeScript, Tailwind CSS, Supabase y Framer Motion. Deployeo en Cloudflare Pages y Vercel. Uso IA como herramienta de desarrollo activa, no como sustituto del criterio.
 
